@@ -1,6 +1,6 @@
 package sec01_basicsyntax.EX03;
 
-public class ConsoleOutput {
+public class ConsoleOutput { 
 	
 	public static void main(String[] ar) {
 		
