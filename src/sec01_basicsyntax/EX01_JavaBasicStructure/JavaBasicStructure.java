@@ -1,4 +1,4 @@
-package sec01_basicsyntax.EX01;
+package sec01_basicsyntax.EX01_JavaBasicStructure;
 
 /* ctrl+shift+'/'
 처음 만든 클래스
