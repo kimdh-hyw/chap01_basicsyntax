@@ -39,13 +39,8 @@ public class ConsoleOutput {
 		System.out.printf("%f\n", 5.8); //출력 : 실수 출력
 		System.out.printf("%4.2f\n", 5.8); //출력 : 실수 출력
 		System.out.printf("%d와 %4.2f\n", 4, 5.8); //출력 : 실수 출력
-		
-		
-		
-
-		
+					
 	}
-	
 	
 }
 
